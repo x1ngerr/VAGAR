@@ -1,4 +1,4 @@
-# VAGAR: Variational Hypergraph Embedding with Adversarial Optimization for Predicting circRNA-miRNA Associations
+# VAGAR: Variational Hypergraph Embedding with Adversarial Optimization for Predicting circRNA-miRNA Interactions
 
 ## Project Structure
 
